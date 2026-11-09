@@ -1,0 +1,12 @@
+BASIC CHATBOT - OUTPUT
+
+Chatbot: Hello! Type 'bye' to exit.
+You: hello
+Chatbot: Hi!
+You: how are you
+Chatbot: I'm fine, thanks!
+You: what is your name
+Chatbot: I am a simple Python chatbot.
+You: bye
+Chatbot: Goodbye!
+Thanks for playing!
